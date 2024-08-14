@@ -1,7 +1,7 @@
 {
     "Name": "GeckoEidechse.Headhunter",
     "Description": "A variation of the Fastball gamemode",
-    "Version": "0.0.1",
+    "Version": "0.0.2",
     "DownloadLink": "https://northstar.thunderstore.io/package/download/Example/Mod/",
 
     "LoadPriority": 3,
